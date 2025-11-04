@@ -54,5 +54,5 @@ This project implements a dynamic form where users can input data such as **Name
 - **Bootstrap**: A CSS framework used for styling the form, table, and buttons.
 - **localStorage**: Used for storing form data in the browser’s local storage, ensuring data persistence even after a page reload.
 
-
+## Once you refresh the browser you will see the update
 
